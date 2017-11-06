@@ -1,9 +1,9 @@
 # TechThermo
-Free library for technical thermodynamics.(unlicensed)
+Free library for technical thermodynamics.
 
 ## Library description
 
-See [TechThermoIntro.pdf](../../release/blob/TechThermo 1.0/TechThermoIntro.pdf)
+See [TechThermoIntro.pdf](../../blob/release/TechThermo%201.0/TechThermoIntro.pdf)
 
 ## Current release
 
